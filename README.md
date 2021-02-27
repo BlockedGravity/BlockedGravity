@@ -1,2 +1,0 @@
-# BlockedGravity
-GitHub Pages
